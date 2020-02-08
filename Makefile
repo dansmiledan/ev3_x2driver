@@ -8,5 +8,5 @@ x2app: $(OBJS)
 
 .PHONY: clean
 clean:
-	-rm -rf $(OBJS)
+	-rm -rf $(OBJS) x2app
 
